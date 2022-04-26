@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/387fdb09-f9c3-44c8-9cdb-cbb1439c536f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/ahoj-metaverse",
+    "appService.deploySubpath": "."
+}
